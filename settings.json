@@ -1,0 +1,22 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6285895789545",
+	"ownerNumberr": "6285895789545",
+	"cr": "© Powered by Android",
+	"ownername": "フィノマヘサ",
+	"botname":"𝑨𝒏𝒊𝒎𝒃𝒐𝒕𝒛",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"fake": " 「  𝑨𝒏𝒊𝒎𝒃𝒐𝒕𝒛  」\nCreated By @フィノマヘサ"
+}
